@@ -26,7 +26,7 @@ This project is an interactive Power BI dashboard designed to monitor GST compli
 
 ## Dashboard Preview
 
-(Add Dashboard.png here after uploading)
+![GST Dashboard](Dashboard.png)
 
 ## Key Metrics
 
